@@ -1,11 +1,10 @@
-## Hi there 👋 I'm Vesa från Finland (N00b Artist/N00b Programmer)
+## Hi there 👋 I'm Vesa från Finland (N00b Artist & N00b Programmer)
 
-<img width="806" height="778" alt="arena" src="https://github.com/user-attachments/assets/b99f6944-8625-4323-91f9-b3f7ee34e634" />
+<img width="400" height="386" alt="arena_agl" src="https://github.com/user-attachments/assets/8bfb37dc-09d0-4d9f-8ff0-13975dae95b8" />
 
 
 Hey hey, I'm currently studying at Taitotalo. 
 
-There's quite a few unfinished projects, and these are SCHOOL projects goddamn it..
 
 ## Projects
 - Ruska Rally       - First finished gamejam :)
