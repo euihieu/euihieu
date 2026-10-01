@@ -27,10 +27,6 @@ There's quite a few unfinished projects, and these are SCHOOL projects goddamn i
 -
 
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 
 This page is only for educational purposes.
