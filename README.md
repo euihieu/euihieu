@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hey hey, I'm currently studying at Taitotalo. 
+
 <!--
 **euihieu/euihieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
