@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Vesa från Finland (Artist/Noob Programmer)
 
 <img width="806" height="778" alt="arena" src="https://github.com/user-attachments/assets/b99f6944-8625-4323-91f9-b3f7ee34e634" />
 
