@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img width="138" height="123" alt="image" src="https://github.com/user-attachments/assets/99205d8a-7d4b-41a1-8ab8-40ff16603071" />
+<img width="806" height="778" alt="arena" src="https://github.com/user-attachments/assets/b99f6944-8625-4323-91f9-b3f7ee34e634" />
+
 
 Hey hey, I'm currently studying at Taitotalo. 
 
