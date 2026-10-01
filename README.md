@@ -12,10 +12,6 @@ Projects
 - Alien Balls       - Left the project
 - Synthwave Solver  - Finished project
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 Work experience
 -
@@ -29,6 +25,13 @@ Education
 -
 -
 -
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 
 This page is only for educational purposes.
 
