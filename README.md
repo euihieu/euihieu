@@ -2,6 +2,10 @@
 
 Hey hey, I'm currently studying at Taitotalo. 
 
+There's quite a few unfinished projects, and these are SCHOOL projects goddamn..
+- Ruska Rally   - first finished gamejam :) ... I'll link it here, in a couple of days
+- KAJO          - Left the project
+- Alien Balls   - Left the project
 <!--
 **euihieu/euihieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
