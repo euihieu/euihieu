@@ -8,24 +8,21 @@ Hey hey, I'm currently studying at Taitotalo.
 There's quite a few unfinished projects, and these are SCHOOL projects goddamn it..
 
 ## Projects
-- Ruska Rally       - first finished gamejam :) ... I'll link it here, in a couple of days
+- Ruska Rally       - First finished gamejam :)
 - KAJO              - Left the project
 - Alien Balls       - Left the project
 - Synthwave Solver  - Finished project
 
 
 ## Work experience
--
--
--
--
+- Small Game company 
+- Small Game company 
+- Areena Game series 5, 7 and AGL Boardgame
 
 
 ## Education
--
--
--
--
+- Currently studying at Taitotalo
+- Game Artist 2015
 
 
 
