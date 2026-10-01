@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="138" height="123" alt="image" src="https://github.com/user-attachments/assets/99205d8a-7d4b-41a1-8ab8-40ff16603071" />
+
 Hey hey, I'm currently studying at Taitotalo. 
 
 There's quite a few unfinished projects, and these are SCHOOL projects goddamn it..
