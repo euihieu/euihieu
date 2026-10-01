@@ -6,21 +6,21 @@ Hey hey, I'm currently studying at Taitotalo.
 
 There's quite a few unfinished projects, and these are SCHOOL projects goddamn it..
 
-## H2 Projects
+## Projects
 - Ruska Rally       - first finished gamejam :) ... I'll link it here, in a couple of days
 - KAJO              - Left the project
 - Alien Balls       - Left the project
 - Synthwave Solver  - Finished project
 
 
-## H2 Work experience
+## Work experience
 -
 -
 -
 -
 
 
-## H2 Education
+## Education
 -
 -
 -
