@@ -3,7 +3,6 @@
 <img width="400" height="386" alt="arena_agl" src="https://github.com/user-attachments/assets/8bfb37dc-09d0-4d9f-8ff0-13975dae95b8" />
 
 
-Hey hey, I'm currently studying at Taitotalo. 
 
 ## Skills
 - Tiiny tiny bits of C#, GDScript, Python
