@@ -5,6 +5,11 @@
 
 Hey hey, I'm currently studying at Taitotalo. 
 
+## Skillss
+- tiny bit of C#, GDScript, Python
+- Godot, Unity
+- Photoshop, GIMP, Blender
+- Linux, macOS, Windows
 
 ## Projects
 - Ruska Rally       - First finished gamejam :)
