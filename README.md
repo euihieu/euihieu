@@ -5,8 +5,8 @@
 
 Hey hey, I'm currently studying at Taitotalo. 
 
-## Skillss
-- tiny bit of C#, GDScript, Python
+## Skills
+- Tiiny tiny bits of C#, GDScript, Python
 - Godot, Unity
 - Photoshop, GIMP, Blender
 - Linux, macOS, Windows
